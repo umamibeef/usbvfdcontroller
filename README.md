@@ -1,2 +1,2 @@
 # usbvfdcontroller
-A driver to emulate the Crystalfontz LCD interface on an NCR 5974 4x20 VFD display.
+Firmware for emulating a Crystalfontz LCD interface for an off-the-shelf character VFD display.
